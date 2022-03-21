@@ -1,0 +1,2 @@
+# AzureDemo
+Practice with Azure
